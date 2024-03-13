@@ -1,0 +1,5 @@
+porto=3306
+password=
+ip=127.0.0.1
+utilizador=root
+baseDados=pa2
